@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Diego Sebastian Perez Aracena
+name: Trenton Bricken
 
 # Short bio or description (displayed in the header)
-description: Doing Science, Philosophy, & Art (Among other things)
+description: Interested in Machine Learning, Neuroscience, and Original Glazed Krispy Kreme Doughnuts.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar:
 
@@ -17,15 +17,15 @@ description: Doing Science, Philosophy, & Art (Among other things)
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: diegospa99@gmail.com
+  email: brickentrenton@gmail.com
   facebook:
   flickr:
-  github: diegospa99@gmail.com
+  github: TrentBrick
   instagram:
   linkedin:
   pinterest:
   rss: r
-  twitter: diegospa99@gmail.com
+  twitter: trentonbricken
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -36,11 +36,11 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-#google_analytics: 
+google_analytics: UA-152925955-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://diegospa99.github.io
+url: http://trentonbricken.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)

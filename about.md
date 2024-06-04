@@ -1,22 +1,20 @@
 ---
 layout: page
-title: Hi, I'm Trenton.
+title: Hi, I'm Diego.
 permalink: /about/
 ---
 
 <!--- ![Trenton B. Bricken](../images/TrentonBricken.jpg){:style="width: 200px; float: right; padding-left: 20px"}-->
 
- I'm a Member of Technical Staff on the Mechanistic Interpretability team at [Anthropic](https://www.anthropic.com/). A nice overview of our mission can be found [here](https://transformer-circuits.pub/2023/interpretability-dreams/index.html). I'm currently working on [using dictionary learning to disentangle superposition in artificial neural networks](https://transformer-circuits.pub/2023/monosemantic-features/index.html).
+I'm currently pursuing a dual MD/PhD at the [Yale School of Medicine](https://medicine.yale.edu/mdphd/). My work focuses on improving human health and advancing scientific discovery. 
 
-Information about me:
-* I've paused (for the forseeable future) my PhD research. I was investigating the extent to which there is convergence between machine learning and neuroscience. This work was done through the "Systems, Synthetic and Quantitative Biology" Program at Harvard in the [Kreiman Lab](http://klab.tch.harvard.edu/publications/publications.html#sthash.dUJc7Kpv.dpbs) and supported by the NSF Graduate Research Fellowship. I also spent time at the Berkeley [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu/) as a visiting researcher.
-* I graduated from Duke University in May 2020 with a self-made major in "Minds and Machines: Biological and Artificial Intelligence". I was lucky to attend as a [Robertson Scholar](https://robertsonscholars.org/profiles/trenton-bricken/), which provided full funding during all four years, including summer experiences.
-* During my time at Duke, I spent a year (June 2018 - May 2019) doing research in [Dr. Michael Lynch's Lab](https://lynchlab.pratt.duke.edu) attempting to use machine learning to design new CRISPR guide RNAs for safer, more effective genome editing. Afterwards, I was affiliated with [Dr. Debora Marks's Lab](https://marks.hms.harvard.edu) at Harvard Medical School, first as a summer intern and then throughout my Senior year including my [Senior Thesis](https://github.com/TrentBrick/learning-protein-landscapes) research.
+Bio:
+* Before Yale, I worked for 2 years at the [Harvard Stem Cell Institute](https://hsci.harvard.edu) on [lineage tracing](https://en.wikipedia.org/wiki/DNA_barcoding) and [multi-omic profiling tools](https://en.wikipedia.org/wiki/Multiomics) in the regenerative biology lab of [Dr. Fernando Camargo](https://camargolab.squarespace.com).
+* In 2018, I was accepted for undergrad to Brown and the [Columbia Honors program](https://www.cc-seas.columbia.edu/scholars/named), though I decided to attend university on a full ride as a National Hispanic Scholar at [Fordham University](https://www.fordham.edu) in NYC.
+* My multidisciplinary degree in [Integrative Neuroscience](https://www.fordham.edu/academics/departments/integrative-neuroscience/) spanned Cell and Molecular, Cognitive, and Systems and Computational neuroscience, and I gained Minors in Biochemistry & Philosophy. I investigated epigenetic sex differences that occur in the brain reward area as a result of early-life stress with [Dr. Kundakovic](https://kundakoviclab.com) and published on tissue engineering/drug design work using molecular dynamics simulations with [Dr. Banerjee](https://www.fordham.edu/academics/departments/chemistry/faculty/ipsita-banerjee/). Throughout my 4 years, I also competed as a Division 1 athlete on [Fordham's Swim and Dive team](https://fordhamsports.com/sports/mens-swimming-and-diving/roster/2021-22) (Springboard Diving, 1m, 3m).
+* During COVID, I interned at the [Brain Injury Research Center at Mt. Sinai](https://icahn.mssm.edu/research/brain-injury/about) and volunteered at the ["Step in Step" Spinal Cord Injury Rehabilitation Center](https://stayinstep.org/our-program/).
+* If there weren't a million ways we could still improve human health using science and technology, you might find me highlining, painting, or trying to convince others that pineapple is the best topping on pizza. 
 
-I am involved in the movement/philosophy/set of ideas that is [Effective Altruism](https://www.effectivealtruism.org). I am also a fan of prediction markets and make public forecasts on Metaculus [here](https://www.metaculus.com/accounts/profile/118139/).
-If the world was void of both interesting research questions and global catastrophic risks(!), you'd find me backpacking around the world with my [film camera](https://blitz-analog.github.io/). I still try to do this when I have time off and get the chance to travel somewhere cool.
-
-Have any feedback for me? Please consider filling out [this](https://forms.gle/VcY3vQgkdf6c69dr7) anonymous feedback form so I can learn and grow.
 
 ## Publications (in reverse chronological order):
 

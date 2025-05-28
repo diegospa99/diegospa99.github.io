@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>about me</title>
         <style>
         body {
@@ -42,6 +43,19 @@
         .about-text a {
             color: rgb(170, 59, 255);
             text-decoration: none;
+        }
+
+        @media (max-width: 600px) {
+            .about-container {
+                flex-direction: column;
+                align-items: center;
+            }
+            .about-pic {
+                margin-right: 0;
+                margin-bottom: 1rem;
+                width: 80%;
+                max-width: 300px;
+            }
         }
         </style>
   </head>

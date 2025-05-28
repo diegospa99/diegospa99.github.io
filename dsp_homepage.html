@@ -6,20 +6,35 @@
     <style>
       body {
         margin: 0;
+        position: relative;
         font-family: "apple chancery", cursive;
         background: linear-gradient(
-          143deg, 
-          #fff 35%, 
+          143deg,
+          #fff 35%,
           #000 35%
         );
         height: 100vh;
         overflow: hidden;
+      }
+
+      body::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(
+          143deg,
+          rgba(255, 255, 255, 0) 35%,
+          #000 35%
+        );
+        pointer-events: none;
+        z-index: 1;
       }
       .sisyphus-img {
         position: absolute;
         top: 10%;
         left: 5%;
         max-width: 300px;
+        z-index: 0;
       }
       .nav-links {
         position: absolute;
@@ -28,6 +43,7 @@
         color: #fff;
         font-size: 1.2rem;
         text-align: right;
+        z-index: 2;
       }
       .nav-links h2 {
         margin-bottom: 1rem;

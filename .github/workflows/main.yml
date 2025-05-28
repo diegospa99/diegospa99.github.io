@@ -17,4 +17,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: rossjrw/pr-preview-action@v1
         with:
+          branch: main
+          target-directory: pr-preview/${{ github.event.number }}
           source-dir: .

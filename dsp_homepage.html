@@ -2,6 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>dsp homepage</title>
     <style>
       body {
@@ -19,6 +20,7 @@
         position: absolute;
         top: 10%;
         left: 5%;
+        width: 28vw;
         max-width: 300px;
       }
       .nav-links {
@@ -42,6 +44,26 @@
       }
       .nav-links a:hover {
         color: rgb(170, 59, 255);
+      }
+
+      @media (max-width: 600px) {
+        .sisyphus-img {
+          top: 12%;
+          left: 4%;
+          width: 40vw;
+          max-width: 150px;
+        }
+        .nav-links {
+          top: 55%;
+          right: 5%;
+          font-size: 1rem;
+        }
+        .nav-links h2 {
+          font-size: 2rem;
+        }
+        .nav-links a {
+          font-size: 1.2rem;
+        }
       }
     </style>
   </head>
